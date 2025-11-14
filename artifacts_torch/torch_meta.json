@@ -1,0 +1,5 @@
+{
+  "teams": ["Arsenal", "Aston Villa", "Bournemouth", "Brentford", "Brighton", "Burnley", "Chelsea", "Crystal Palace", "Everton", "Fulham", "Liverpool", "Luton", "Man City", "Man United", "Newcastle", "Nottingham Forest", "Sheffield Utd", "Tottenham", "West Ham", "Wolves"],
+  "features": ["home_id", "away_id", "HTHG", "HTAG", "HS", "AS", "HST", "AST", "HC", "AC", "HF", "AF", "HY", "AY", "HR", "AR"],
+  "class_labels": ["H", "D", "A"]
+}
