@@ -93,6 +93,6 @@ REST_FRAMEWORK = {
 CORS_ALLOWED_ORIGINS = [
     'http://localhost:3000',
     'http://127.0.0.1:3000',
-    'https://scoresight.vercel.app',  # Replace with your actual Vercel URL
+    'https://score-sight-frontend.vercel.app',  # Your actual Vercel URL
 ]
 CORS_ALLOW_CREDENTIALS = True
